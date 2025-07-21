@@ -125,5 +125,5 @@ The code is organized into two main components: a frontend (Streamlit) and a bac
 
 ## Contact
 For queries or contributions, feel free to reach out:
-**Email:** stl.1547vipul@gmail.com
+**Email:** contact.vipulbhatt@gmail.com
 
